@@ -1,5 +1,16 @@
 
 
+.ontext{
+    position: absolute ;
+    background-color: #4aaaa5;
+    width: 304px;
+    color: #ffffff;
+    margin-top: 180px;
+    text-align: center !important;
+ 
+}
+
+
 .clearfix {
     overflow: !important;
   }
@@ -15,13 +26,7 @@
  
  
 }
-
-/* .border-3 {
-    border-width:300px !important;
-    
-    border-top: 18px solid #4aaaa5 !important;
-} */
-
+ 
 .myfooter{
 
     background-color: #666666 !important;
@@ -38,10 +43,16 @@
 }
  
 
-.navbar-brand{
+
+.navigator{
+
     background-color: #4aaaa5 !important;
     color: #ffffff;
     margin-left: 150px !important;
+    width: 300px;
+    height: 55px;
+    position: fixed;
+    text-align: center !important;
     
  
 }
